@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prace\\python\\word_counter\\word_counter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7F15D9-A462-43B6-9DA9-6B36CDD740BD}|word_counter.pyproj|D:\\prace\\python\\word_counter\\word_counter\\word_counter.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D7F15D9-A462-43B6-9DA9-6B36CDD740BD}|word_counter.pyproj|solutionrelative:word_counter.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7F15D9-A462-43B6-9DA9-6B36CDD740BD}|word_counter.pyproj|D:\\prace\\python\\word_counter\\word_counter\\gui.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D7F15D9-A462-43B6-9DA9-6B36CDD740BD}|word_counter.pyproj|solutionrelative:gui.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7F15D9-A462-43B6-9DA9-6B36CDD740BD}|word_counter.pyproj|D:\\prace\\python\\word_counter\\word_counter\\db.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D7F15D9-A462-43B6-9DA9-6B36CDD740BD}|word_counter.pyproj|solutionrelative:db.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7F15D9-A462-43B6-9DA9-6B36CDD740BD}|word_counter.pyproj|D:\\prace\\python\\word_counter\\word_counter\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D7F15D9-A462-43B6-9DA9-6B36CDD740BD}|word_counter.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gui.py",
+              "DocumentMoniker": "D:\\prace\\python\\word_counter\\word_counter\\gui.py",
+              "RelativeDocumentMoniker": "gui.py",
+              "ToolTip": "D:\\prace\\python\\word_counter\\word_counter\\gui.py",
+              "RelativeToolTip": "gui.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-16T15:27:11.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "db.py",
+              "DocumentMoniker": "D:\\prace\\python\\word_counter\\word_counter\\db.py",
+              "RelativeDocumentMoniker": "db.py",
+              "ToolTip": "D:\\prace\\python\\word_counter\\word_counter\\db.py",
+              "RelativeToolTip": "db.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-16T11:20:39.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37120143:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:418251960:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1279759442:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.py",
+              "DocumentMoniker": "D:\\prace\\python\\word_counter\\word_counter\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "D:\\prace\\python\\word_counter\\word_counter\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-16T11:18:23.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "word_counter.py",
+              "DocumentMoniker": "D:\\prace\\python\\word_counter\\word_counter\\word_counter.py",
+              "RelativeDocumentMoniker": "word_counter.py",
+              "ToolTip": "D:\\prace\\python\\word_counter\\word_counter\\word_counter.py",
+              "RelativeToolTip": "word_counter.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-26T20:15:25.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
